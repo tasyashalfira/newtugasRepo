@@ -38,8 +38,5 @@ public class Calcu {
 
         if (result == (int) result) {
             result = (int) result;
-        }
-
-        System.out.println("Result: " + result);
     }
 }
