@@ -29,7 +29,7 @@ public class Calcu {
                     System.out.println("The second number cannot be 0");
                     return;
                 }
-                result = number1 / number2;
+                result = number1232 / number2;
                 break;
             default:
                 System.out.println("Unrecognized operator");
