@@ -22,7 +22,7 @@ public class Calcu {
                 result = number1 - number2;
                 break;
             case "x":
-                result = number1 * number2;
+                result = number1 * number34;
                 break;
             case "/":
                 if (number2 == 0) {
@@ -38,8 +38,5 @@ public class Calcu {
 
         if (result == (int) result) {
             result = (int) result;
-        }
-
-        System.out.println("Result: " + result);
     }
 }
